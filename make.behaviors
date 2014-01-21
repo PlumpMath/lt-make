@@ -1,0 +1,3 @@
+{:+ {:app [(:lt.objs.plugins/load-js ["make_compiled.js"])]
+     :editor.makefile [:lt.plugins.make/on-eval.one]
+     :filter-list [:lt.plugins.make/on-target-select]}}

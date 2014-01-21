@@ -1,0 +1,7 @@
+{:name "Make"
+ :version "0.0.1"
+ :desc "Make for Light Table"
+ :source "https://github.com/heyLu/lt-make"
+ :author "Lucas Stadler"
+ :dependencies {}
+ :behaviors "make.behaviors"}
